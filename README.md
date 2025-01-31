@@ -29,8 +29,9 @@ Please [click here](https://www.canva.com/design/DAGXc2Qv1uU/nIMqbENkGVq3n7MAsHB
 
 <img width="302" alt="Infographic" src="https://github.com/user-attachments/assets/770f9aca-19b7-4962-b6d4-cef315d5ca3e" />
 
-## Challenges  
+## Challenges & Learnings
 - **Foursquare Studio UI**: Navigating the interface and formatting the map for clear presentation posed some challenges, due to the cluttured formatting options.
+
 - **Combining Multiple Visuals**: Designing the infographic in Canva required strategically arranging the thematic map, bar chart, and doughnut chart to ensure clear storytelling, visual hierarchy, and readability without overcrowding the layout.
 
 ## Written Report
