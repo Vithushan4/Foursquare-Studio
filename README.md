@@ -9,7 +9,7 @@ Understanding the distribution of non-English speaking households is essential f
 - Includes a **bar chart** for comparing regional differences.
 - Combines these elements into a visually engaging **infographic**.
 
-### Key Insights
+## Key Insights
 - **Higher concentrations** of non-English speaking households are found in municipalities closer to **Toronto**.
 - Thematic mapping reveals **localized variations**, with some neighborhoods having a higher number of non-English speaking households despite the overall region having a lower average.
 
