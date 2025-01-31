@@ -35,5 +35,5 @@ Please [click here](https://www.canva.com/design/DAGXc2Qv1uU/nIMqbENkGVq3n7MAsHB
 - **Combining Multiple Visuals**: Designing the infographic in Canva required strategically arranging the thematic map, bar chart, and doughnut chart to ensure clear storytelling, visual hierarchy, and readability without overcrowding the layout.
 
 ## Written Report
-For a detailed breakdown of the analysis please refer to the written report, that is attached in the files section of this repository. This report provides deeper insights into the analysis, and key findings/ 
+For a detailed breakdown of the analysis please refer to the written report, that is attached in the files section of this repository. This report provides deeper insights into the analysis, and key findings.
 
